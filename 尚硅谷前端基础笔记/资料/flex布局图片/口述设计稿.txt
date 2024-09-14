@@ -1,0 +1,35 @@
+重置样式：
+    * { 
+        font-family: Arial; 
+        font-size: 14px; 
+        margin: 0; 
+        padding: 0; 
+        border: none; 
+    }
+    a { text-decoration: none; }
+    ul { list-style: none; }
+
+背景：铺满全屏
+
+头部：
+    高度 70px  
+    背景色 rgba(0, 0, 0, 0.7)
+    左右各种20px内边距
+    导航文字：白色文字、1px白色边框、圆角8px、内边距10px、间距20px
+
+中间大导航：
+    宽：1000px
+    高：300px
+    在内容区水平垂直居中
+
+大导航里的每一个导航项
+    宽：180px
+    高度：200px
+
+五个大导航，颜色分别为：
+    #595CA8;
+    #FF9D2E;
+    #01A6DE;
+    #015E91;
+    #1DC128;
+    #01A6DE;
